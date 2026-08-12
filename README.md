@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile repo
+### ABOUT ME: I am a social science student with some coding and developing experience and currently learning how to apply AI and vibe coding to develop applications and websites
+#### Here are some ideas that I want to actualize
+1. A bakery recipe APP
+2. An oral history archive website
+3. An APP that has personalized AI chat bots oriented toward elders
 
 <!--
 **kh-29-a/kh-29-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
